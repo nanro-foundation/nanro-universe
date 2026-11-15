@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return u}}),r(d[0]);var t=r(d[1]),n=r(d[2]),c=r(d[3]),f=r(d[4]);function u(){const{me:u}=(0,n.useSession)();return'office'===u.role?(0,f.jsx)(c.OfficeScreen,{}):(0,f.jsx)(t.Redirect,{href:"/"})}},775,[12,791,788,798,6]);

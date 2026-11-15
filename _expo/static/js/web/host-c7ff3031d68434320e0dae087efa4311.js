@@ -1,1 +1,0 @@
-__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return f}}),r(d[0]);var t=r(d[1]),n=r(d[2]),u=r(d[3]),c=r(d[4]);function f(){return n.LIVE?(0,c.jsx)(u.LiveHost,{}):(0,c.jsx)(t.Redirect,{href:"/table"})}},771,[12,794,791,800,6]);
